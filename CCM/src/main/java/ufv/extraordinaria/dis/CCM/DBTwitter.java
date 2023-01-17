@@ -5,7 +5,7 @@ import ufv.extraordinaria.dis.CCM.Clases.DatosTweets;
 import java.util.ArrayList;
 
 public class DBTwitter {
-        private ArrayList<DatosTweets> data; // Lista de datos de las zonas básicas de salud
+        private static ArrayList<DatosTweets> data; // Lista de datos de las zonas básicas de salud
 
         public DBTwitter(ArrayList<DatosTweets> datos) {
             this.data = datos;
@@ -16,14 +16,12 @@ public class DBTwitter {
 
 
         // Getter & Setter
-        public ArrayList<DatosTweets> getDatos() {
+        public static ArrayList<DatosTweets> getDatos() {
             return data;
         }
 
         public void setDatos(ArrayList<DatosTweets> datos) {
             this.data = datos;
         }
-
-    }
 
 }
