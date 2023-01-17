@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "usuario": "Usuario",
+    "tweet": "Mi primer tweet en la nueva app",
+    "fecha": "20-02-2022"
+  },
+  {
+    "id": 2,
+    "usuario": "Usuario",
+    "tweet": "Mi segundo tweet en la nueva app",
+    "fecha": "24-02-2022"
+  },
+  {
+    "id": 3,
+    "usuario": "Usuario",
+    "tweet": "Mi tercer tweet en la nueva app",
+    "fecha": "28-02-2022"
+  },
+  {
+    "id": 4,
+    "usuario": "Usuario",
+    "tweet": "Mi cuarto tweet en la nueva app",
+    "fecha": "20-03-2022"
+  },
+  {
+    "id": 5,
+    "usuario": "Usuario",
+    "tweet": "Mi quinto tweet en la nueva app",
+    "fecha": "22-03-2022"
+  },
+  {
+    "id": 6,
+    "usuario": "Usuario",
+    "tweet": "Mi sexto tweet en la nueva app",
+    "fecha": "22-04-2022"
+  },
+  {
+    "id": 7,
+    "usuario": "Usuario",
+    "tweet": "Mi séptimo tweet en la nueva app",
+    "fecha": "25-04-2022"
+  }
+]
